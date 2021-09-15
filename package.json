@@ -1,0 +1,24 @@
+{
+    "name": "data-structures-in-js",
+    "version": "1.0.0",
+    "description": "Data structures and algorithms in javascript",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --coverage"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/imireallan/data-structures-in-js.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/imireallan/data-structures-in-js/issues"
+    },
+    "homepage": "https://github.com/imireallan/data-structures-in-js#readme",
+    "devDependencies": {
+        "chai": "^4.3.4",
+        "jest": "^27.2.0"
+    }
+}
